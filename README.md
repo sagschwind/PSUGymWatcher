@@ -5,7 +5,7 @@ The main function of this application is to display the current amount of people
     to me to use the counterAPI after I asked.
   - The old JSON parsing code is still in the application but it is commented out
 
-![Alt text](/Screenshots/GymAttendance.png?raw=true "Main Page")
+![Alt text](/Screenshots/GymAttendance.png?raw=true "Main Page" | width = 100)
 
 The application also has a refresh rate limiter to prevent server load issues
 
