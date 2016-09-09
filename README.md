@@ -4,15 +4,20 @@ The main function of this application is to display the current amount of people
   - It currently displays a random population due to Penn State not giving permission 
     to me to use the counterAPI after I asked.
   - The old JSON parsing code is still in the application but it is commented out
-
-<img src="/Screenshots/GymAttendance.png?raw=true" width="187" height="334" />
-<img src="/Screenshots/GymSchedule.png?raw=true" width="187" height="334" />
-<img src="/Screenshots/SettingsPage.png?raw=true" width="187" height="334" />
-
+  
 The application also has a refresh rate limiter to prevent server load issues
 
 The last page displays the a table of the hours of each gym on campus
 
 The settings page allows people to reorganize the list of gyms and how they are displayed. It also allows people to disable
 the pop up alerts to tell people they must wait to update the numbers, but they populations will no update
+
+
+Screenshots:
+
+<img src="/Screenshots/GymAttendance.png?raw=true" width="187" height="334" />
+<img src="/Screenshots/GymSchedule.png?raw=true" width="187" height="334" />
+<img src="/Screenshots/SettingsPage.png?raw=true" width="187" height="334" />
+
+
 
