@@ -6,6 +6,8 @@ The main function of this application is to display the current amount of people
   - The old JSON parsing code is still in the application but it is commented out
 
 <img src="/Screenshots/GymAttendance.png?raw=true" width="187" height="334" />
+<img src="/Screenshots/GymSchedule.png?raw=true" width="187" height="334" />
+<img src="/Screenshots/SettingsPage.png?raw=true" width="187" height="334" />
 
 The application also has a refresh rate limiter to prevent server load issues
 
