@@ -13,7 +13,7 @@ The settings page allows people to reorganize the list of gyms and how they are 
 the pop up alerts to tell people they must wait to update the numbers, but they populations will no update
 
 
-Screenshots:
+Screenshots from Xcode iOS device simulator (iPhone 6s):
 
 <img src="/Screenshots/GymAttendance.png?raw=true" width="187" height="334" />
 <img src="/Screenshots/GymSchedule.png?raw=true" width="187" height="334" />
