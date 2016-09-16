@@ -1,5 +1,6 @@
 # PSUGymWatcher
 This is a Swift based iOS application built in xCode
+
 The main function of this application is to display the current amount of people in each gym at Penn State University Park
   - It currently displays a random population due to Penn State not giving permission 
     to me to use the counterAPI after I asked.
